@@ -11,3 +11,12 @@ This repository contains the XSD schema files for multiple CMSIS-SVD specificati
 XSD schema files use the `CMSIS-SVD_*.xsd` name format where the wildcard is the version of the corresponding standard.
 
 The `metadata.txt` file contains the source URLs for each schema file.
+
+## License
+
+Licensing of files in this repository varies by file. In general, the following rules apply:
+
+* Each XSD file contains a comment near the top specifying its license. That file‑level license takes precedence over more general guidelines.
+* All other files are licensed under the terms of the [Apache License v2.0](LICENSE-APACHE).
+
+If you encounter an issue with the contents of this repository or have a question, please do not hesitate to create an issue on Github.
